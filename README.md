@@ -28,4 +28,6 @@ The following steps are needed to install Docker en Docker Compose on a raspbian
 
 Reboot here or run the next commands so you can run the docker compose command without sudo
 
-Copy the files in th
+In the folders Management en Teslamate you will find the needed YML files to run your docker compose.
+
+More details installation instruction can be found on https://docs.teslamate.org/
